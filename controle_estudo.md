@@ -1,7 +1,7 @@
 
 ## CONTROLE DE ESTUDOS
 
-### CAPÍTULO 01
+### CAPÍTULO 01 - introdução
 
 
 **Sérgio** | **Bruno**
@@ -9,10 +9,11 @@
 completo :+1: | completo :+1:
 
 
-### CAPÍTULO 02
+### CAPÍTULO 02 - variáveis, tipos e estruturas de dados
 
 
-**Sérgio** | | **Bruno** | |
------------- |------------ |------------ |------------ |
-[ x ] introducao :+1: | 07/09/2020 | [  ] introducao| -  |
+**título** | **Sérgio** | **Bruno** |
+------------ |------------ |------------ |
+ introducao                                   | [ x ] 07/09/2020 :+1: | [  ] -                |
+por que isso é importante?                    | [ x ]                 | [  ] -                |
 

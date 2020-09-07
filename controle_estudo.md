@@ -1,14 +1,14 @@
 
-### CONTROLE DE ESTUDOS
+## CONTROLE DE ESTUDOS
 
-## CAPÍTULO 01
+### CAPÍTULO 01
 
 **Sérgio** | **Bruno**
 ------------ | -------------
 completo | completo
 
 
-## CAPÍTULO 02
+### CAPÍTULO 02
 
 **Sérgio** | | **Bruno** | |
 ------------ |------------ |------------ |------------ |

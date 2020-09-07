@@ -6,7 +6,7 @@
 
 **Sérgio** | **Bruno**
 ------------ | -------------
-completo | completo
+completo :+1: | completo :+1:
 
 
 ### CAPÍTULO 02

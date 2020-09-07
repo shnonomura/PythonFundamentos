@@ -12,4 +12,4 @@ completo | completo
 
 Sérgio | | Bruno | |
 ------------ |------------ |------------ |------------ |
-- [x] introducao | 07/09/2020 |- [ ] introducao| |
+[x] introducao | 07/09/2020 | [ ] introducao| |

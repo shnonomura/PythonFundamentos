@@ -14,6 +14,9 @@ completo :+1: | completo :+1:
 
 **título** | **Sérgio** | **Bruno** |
 ------------ |------------ |------------ |
- introducao                                   | [ x ] 07/09/2020 :+1: | [  ] -                |
-por que isso é importante?                    | [ x ]                 | [  ] -                |
-
+ introducao                                                     | [ x ] 07/09/2020 :+1: | [  ] -                |
+por que isso é importante?                                      | [ x ] 07/09/2020 :+1: | [  ] -                |
+números e operações matemáticas                                 | [ x ] 07/09/2020 :+1: | [  ] -                |
+jupyter notebook - números e operações matemáticas - parte 1-2  | [ x ] 10/09/2020 :+1: | [  ] -                |
+jupyter notebook - números e operações matemáticas - parte 1-2  | [ x ] 10/09/2020 :+1: | [  ] -                |
+variáveis e operadores                                          | [ x ] 10/09/2020 :+1: | [  ] -                |

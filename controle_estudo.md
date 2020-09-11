@@ -25,5 +25,5 @@ string e indexações em Python | [ x ] /09/2020 :+1: | [  ] -                |
 jupyter notebook - Strings - Parte1-2 | [ x ] /09/2020 :+1: | [  ] -                |
 jupyter notebook - Strings - Parte2-2 | [ x ] /09/2020 :+1: | [  ] -                |
 estrutura de dados - listas | [ x ] /09/2020 :+1: | [  ] -                |
-jupyter notebook - estrutura de dados - listas - Parte1-2 | [ x ] /09/2020 10/09/2020:+1: | [  ] -                |
+jupyter notebook - estrutura de dados - listas - Parte1-2 | [ x ] /09/2020 :+1: | [  ] -                |
 jupyter notebook - estrutura de dados - listas - Parte2-2 | [ x ] /09/2020 :+1: | [  ] -                |
